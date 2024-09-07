@@ -4,8 +4,12 @@ React와 YouTube API를 이용하여 간단한 영상 사이트를 만듭니다.
 YouTube Data API를 활용하여 외부 데이터를 가져오는 방법을 익히고, API 응답을 처리하여 사용자에게 의미 있는 정보를 제공하는 방법을 이해합니다.
 
 ## 완성작 보기
+<div>
+    <h3>헤더 영역</h3>
+  <img width="1512" alt="스크린샷 2024-09-07 오후 9 41 25" src="https://github.com/user-attachments/assets/c9781e61-62ec-4709-bcda-b58f09572fb4">
+</div>
 
-미리보기 :
+
 
 ## 사용스택
 
