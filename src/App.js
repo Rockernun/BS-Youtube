@@ -40,5 +40,3 @@ const App = () => {
 };
 
 export default App;
-
-//  fallback 속성은 Suspense 컴포넌트에서 로딩 중에 표시할 컴포넌트를 지정한다. 여기서는 <Main /> 컴포넌트가 로딩 중에 보여지도록 했다.
